@@ -1,2 +1,1 @@
-# Python-Projects
-Contains concets of python with multiple packages(Opencv, Numpy etc)
+contains code fo detecting faces in an image
